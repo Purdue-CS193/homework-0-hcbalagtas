@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-Henry's CS193 website
+# Henry's First CS193 Homework
+
+Some of my favorite things about CS193:
+- homework is explained well
+- my classmates are nice
+- TAs are nice
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
